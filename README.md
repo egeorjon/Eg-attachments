@@ -622,7 +622,7 @@ List of changes and bug fixes:
 
 ## Upgrade Notice
 
-= From 1.x to 2.x 
+### From 1.x to 2.x
 In version 1.x, the unique custom format is defined in the options page. During update to version 2.x, this custom format is automatically converted to a template. The choice of **fields** are no more available in the version 2.x
 
 ## Credits
