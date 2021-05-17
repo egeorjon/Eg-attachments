@@ -5,8 +5,8 @@ Tags: posts, attachments, shortcode
 Requires at least: 3.9.0
 Tested up to: 4.2.0
 Stable tag: 2.1.3
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin add a shortcode to display the list of attachments of a post, with icon and details. EG-Attachments is "TinyMCE integrated".
 
